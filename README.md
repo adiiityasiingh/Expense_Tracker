@@ -1,22 +1,18 @@
-# MMAS: Money Tracker
+# MMAS: Expense Tracker
 
 > An optimized application for daily expense tracking and finance management. <br />
 
-![MMAS (820 x 360 px)](https://user-images.githubusercontent.com/72301141/206877824-90492e92-2e2d-4de6-b23c-312f283bdfd6.png)
 
 
 ## Setup
 
 Run the following commands from your terminal:
 
-1) `git clone https://github.com/floranguyen0/mmas-money-tracker` to clone this repository 
+1) `git clone https://github.com/adiiityasiingh/Expense_Tracker.git` to clone this repository 
 
 2) `flutter pub get` in the project root directory to install all the required dependencies.
 
 
-## Download MMAS at:
-
-https://apps.apple.com/vn/app/mmas-money-tracker/id1582638369
 
 
 ## Screenshots
@@ -40,7 +36,3 @@ https://apps.apple.com/vn/app/mmas-money-tracker/id1582638369
     </tr>
   </tbody>
 </table>
-
-
-## LICENSE
-MMAS: Money Tracker is [MIT-licensed](https://github.com/floranguyen0/mmas-money-tracker/blob/main/LICENSE).
